@@ -1,1 +1,10 @@
- print("Hello, CSCI 272!");
+#include <iostream>
+
+using namespace std;
+
+int main(){
+   cout << "Hello CSCI 272!" << endl;
+}
+
+
+
